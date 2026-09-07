@@ -1,5 +1,5 @@
 # Cross-Racing-Championship-Crash-Patch
-I originally wrote this patch for a friend of mine who needed it. This uses a vulkan library that replaces the game's base rendering with vulkan along with a modified executable that adds an 8gb patch to the 32bit executable to prevent the game from crashing when many mods are installed
+I originally wrote this patch for a friend of mine who needed it. This uses a vulkan library that replaces the game's base rendering with vulkan along with a modified executable that adds an 8gb patch to the 32bit executable to prevent the game from crashing when many mods are installed.
 
 ## Q. How do I install this patch?
 The installation is quite simple, you have to extract the contents of the archive and copy the contents into the folder where the game executable is located.
