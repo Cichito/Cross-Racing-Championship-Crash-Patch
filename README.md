@@ -18,4 +18,3 @@ Fixes a number of issues within the Invictus Geona engine, particularly memory l
 
 ## Q. If the game continues to have problems what should I do?
 First of all, check the log files inside the game folder like `crc_d3d9.log` or `error.log` and check if the problem is caused by this patch or by another factor, but if the problem actually persists, feel free to report a bug.
-
